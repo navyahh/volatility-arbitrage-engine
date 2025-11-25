@@ -1,8 +1,17 @@
-﻿.venv/
+# Python
 __pycache__/
 *.pyc
-.ipynb_checkpoints/
-.DS_Store
-.env
-*.zip
+*.pyo
+*.pyd
+
+# Virtual env
+.venv/
+env/
+venv/
+
+# Data / results
+data/
 *.csv
+
+# VS Code
+.vscode/
