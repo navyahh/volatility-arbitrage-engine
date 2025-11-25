@@ -1,12 +1,3 @@
-# Volatility-Arbitrage Engine
+A research framework for analyzing volatility mispricing, forecasting realized volatility, and backtesting delta-hedged option strategies on synthetic and real market data (SPY, VIX, VXST).
 
-Machine-learning volatility-arbitrage (variance risk premium) backtest framework built around the Black-Scholes equation, adaptive hedging, and transaction cost realism.
-
-## ⚙️ Core Features
-- **Synthetic & real SPY/IV data support**
-- **HAR, GARCH, and Tree ensemble models** for volatility forecasting
-- **Isotonic calibration** to align forecasted and realized volatilities
-- **Adaptive delta-hedging** with transaction-cost modeling
-- **Full walk-forward backtesting** with performance metrics (Sharpe, Sortino, drawdown)
-
-## 🧠 Architecture
+This project combines synthetic simulation, quantitative finance, and real-world volatility index data to study the variance risk premium (VRP) and build systematic volatility-trading signals.
