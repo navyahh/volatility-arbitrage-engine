@@ -88,3 +88,18 @@ python backtest/param_viz.py
 
 Analyze anomalies
 python backtest/anomaly_view.py
+
+## License
+This project is licensed under **CC BY-NC-ND 4.0**.
+
+You may:
+- View and reference the code
+- Use it for academic or personal research
+
+You may NOT:
+- Use it commercially
+- Modify or distribute derivatives
+- Integrate it into trading systems or products
+
+Full license: https://creativecommons.org/licenses/by-nc-nd/4.0/
+
